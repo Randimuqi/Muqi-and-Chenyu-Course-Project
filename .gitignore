@@ -1,0 +1,6 @@
+data/raw/DM1_Crime_data_set_chicago_20251007.csv
+.venv/
+.DS_Store
+data/.DS_Store
+scripts/.DS_Store
+
